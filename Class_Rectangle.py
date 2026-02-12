@@ -14,6 +14,11 @@
 # - If the rectangle is valid (both sides are positive integers), print 3 values: perimeter, area, and color, separated by a space.
 # - If the input data is invalid, print "INVALID".
 # This task required the following main function:
+# For example:
+# Input:
+# 10 2 RED
+# Output:
+# 24 20 Red
 """
 if __name__ == '__main__':
     arr = input().split()
