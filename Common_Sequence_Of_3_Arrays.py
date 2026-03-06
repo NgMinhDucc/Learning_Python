@@ -1,5 +1,3 @@
-# COMMON SUBSEQUENCE OF THREE ARRAYS
-#
 # Given three arrays A[], B[], and C[], each sorted in non-decreasing order, with sizes N, M, and K respectively.
 # Your task is to find the elements that are common to all three arrays.
 #
