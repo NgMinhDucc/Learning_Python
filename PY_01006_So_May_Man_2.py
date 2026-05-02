@@ -2,7 +2,7 @@ for _ in range(int(input())):
     s = input()
     flag = 1
     for i in s:
-        if i != "4" or i != "7":
+        if i != "4" and i != "7":
             flag = 0
             break
     
